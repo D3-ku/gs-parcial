@@ -9,3 +9,5 @@ para saber quemedio me conviene mas a mi en ese momento y asi evitar tardar.
 Dado que el pasajero se encuentra en la pantalla de confirmación del viaje.
 Cuando visualiza el resumen del trayecto
 Entonces el sistema debe mostrar el método de pago predeterminado actual y un botón para cambiarlo.
+
+parcial avanzado

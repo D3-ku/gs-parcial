@@ -1,0 +1,8 @@
+Daily Scrum:
+Reunión de 15 minutos todos los días para contar en qué anda cada uno,
+qué va a hacer hoy y si hay algo trabado. 
+Es solo para alinearse rápido, no para debatir problemas pesados
+
+Sprint Retrospective:
+Se hace al final del sprint para hablar de cómo trabajó el equipo. La idea es ver qué salió bien,
+qué fue un desastre y qué se puede mejorar para el próximo ciclo

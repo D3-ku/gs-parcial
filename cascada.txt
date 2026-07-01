@@ -1,0 +1,6 @@
+-Análisis de requisitos
+-Diseño del sistema
+-Implementación
+-Verificación
+-Despliegue 
+-Mantenimiento
